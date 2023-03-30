@@ -1,0 +1,39 @@
+.latest-match-card {
+  background-color: #1e293b;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: 'Roboto';
+  padding: 30px;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-family: 'Bree Serif';
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.latest-match-team-logo {
+  height: 140px;
+}
+.latest-match-competing-team {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+.latest-match-date {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.latest-match-venue {
+  margin-bottom: 10px;
+}
+.latest-match-card-right {
+  text-align: right;
+}
+.latest-match-card-right-heading {
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.latest-match-card-right-para {
+  margin-bottom: 10px;
+  font-size: 15px;
+}

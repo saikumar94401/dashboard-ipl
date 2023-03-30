@@ -1,0 +1,32 @@
+.match-card {
+  width: 30%;
+  background-color: #1e293b;
+  margin-top: 20px;
+  border-radius: 20px;
+  display: flex;
+
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+.match-card-image {
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.match-card-competing-team {
+  margin-bottom: 20px;
+}
+
+.match-card-result {
+  margin-bottom: 30px;
+}
+
+.match-win {
+  color: #18ed66;
+  font-size: 25px;
+}
+.match-lost {
+  color: #e31a1a;
+  font-size: 25px;
+}

@@ -1,0 +1,76 @@
+.KKR {
+  background-color: #5755a7;
+}
+
+.SH {
+  background-color: #f26d22;
+}
+.MI {
+  background-color: #13418b;
+}
+
+.KXP {
+  background-color: #a4261d;
+}
+
+.RCB {
+  background-color: #d91c1f;
+}
+.CSK {
+  background-color: #f7db00;
+}
+
+.RR {
+  background-color: #da237b;
+}
+
+.DC {
+  background-color: #4f5db0;
+}
+
+.ipl-team-match-container {
+  padding-bottom: 50px;
+}
+
+.ipl-each-team-container {
+  width: 100%;
+  padding-top: 30px;
+}
+.team-banner-image {
+  width: 90%;
+}
+.banner-image-container {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  height: 45vh;
+}
+
+@media (max-width: 767px) {
+  .banner-image-container {
+    height: 25vh;
+  }
+}
+
+.bottom-match-container {
+  width: 90%;
+  margin: auto;
+}
+.latest-match-container {
+}
+
+.latest-match-heading {
+  color: rgb(245, 235, 235);
+  font-family: 'Bree Serif';
+  margin-top: 10px;
+}
+
+.match-card-container {
+  width: 100%;
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+}
